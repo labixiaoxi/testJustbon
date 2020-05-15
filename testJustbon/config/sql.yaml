@@ -1,0 +1,21 @@
+sqlinfo:
+       host : 10.0.0.180
+       user: jcp
+       passwd: "123456"
+       db: jcp_online_20170531
+       port: 3306
+       charset: utf8
+sqlhouse:
+       host : 10.0.0.180
+       user: jcp
+       passwd: "123456"
+       db: jcp_house_broker
+       port: 3306
+       charset: utf8
+sqllocust:
+       host : localhost
+       user: django
+       passwd: "xiaoxi123"
+       db: django
+       port: 3306
+       charset: utf8

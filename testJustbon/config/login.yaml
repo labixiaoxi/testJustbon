@@ -1,0 +1,22 @@
+# -*-coding:utf-8 -*-
+loginCase:
+  username: "13880466030" #账号
+  password: 123456   #密码
+#  username: "13551343102" #账号
+#  password: 111111
+  assert_loginImmediately: 立即登录
+  assert_login: 登录
+  assert_notice: 小区公告
+  send_keys_input_search: 测试
+  assert_jiaDou: 我的嘉豆
+  assert_head: 我的资料
+  assert_project_add: 我的房屋
+  assert_give: 嘉豆转赠
+  assert_coupon: 我的优惠券
+  assert_winning_the_prize: 中奖记录
+  assert_pay: 缴费单
+  assert_activity: 参加的活动
+  assert_news: 消息通知
+  assert_housing_resources: 我的房源
+  assert_invoice: 开具发票
+

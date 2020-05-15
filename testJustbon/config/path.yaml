@@ -1,0 +1,4 @@
+path:
+  aapt : ..\util\\aapt.exe
+  apk: ..\apk\\https_debug.apk
+  apk1: ..\apk\staff_1.100.apk
